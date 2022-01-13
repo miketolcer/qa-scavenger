@@ -1,0 +1,82 @@
+What is the birth year of the 2nd person in SWAPI? (Person where ID = 2)
+birth_year": "112BBY",
+
+What vehicle is listed as belonging to Qui-Gon Jinn?
+"repulsorcraft
+
+Who is the manufacturer of the vehicle found above?
+"Baktoid Armor Workshop"
+
+For each character in “The Empire Strikes Back” what are their people IDs?
+"characters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            10,
+            13,
+            14,
+            18,
+            0,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+;
+
+What films did “starship 21” appear in according to SWAPI?
+2,
+5
+
+Only one windy planet is listed as having been in a film… Who is listed as its only resident?
+Saesee Tiin
+
+
+How many “pencillers” worked on Marvel Event 327?
+7
+
+Search the Marvel API for comics whose title starts with “New” - what is the title of the last result on the resulting page?
+title": "New Mutants (2019) #16",
+
+Respectively, how many events, stories, and comics did Nightcrawler 
+appear in, according to the Marvel API? 
+(Not including the Nightcrawler Ultimate character entry)
+0  
+
+
+AMAZON:
+https://www.amazon.com/
+ttps://www.amazon.com/s?k=red+ball&i=stripbooks&crid=2MYRMG34X0JRR&sprefix=red+ball%2Cstripbooks%2C81&ref=nb_sb_noss
+
+just ?k remove /s takes me back to main page with red ball in the search bar
+
+remove ref=nb_sb_noss shows no changes to the current page
+https://www.amazon.com/s?k=red+ball%3D123RYVNLP0E008sprefix%3Dgreen+ball%EF%BF%BDps24
+finally broke it and got red vinyl rolls
+https://www.amazon.com/s?k=red+ball%3D123RYVNLP0E008sprefix%3Dgreen+ball%EF%BF%BDps24
+filters
+
+1-48 of 92 results for "ball=123RYVNLP0E008sprefix=green ball�ps24"   is in search bar  https://www.amazon.com/s?k=ball%3D123RYVNLP0E008sprefix%3Dgreen+ball%EF%BF%BDps24 
+searched for misc things batteries , downy
+
+Consider the app(s) you’ve looked at and the things that you’ve changed.
+
+    Answer: Could you try and break the sire with this?
+ i think i did
+    Answer: Are there security risks you can think of?
+  possible to enter a page a user isint supposed to be on
+
+
+
+
+
+
+
+  FAIL
+Status code is 200 | AssertionError: expected response to have status code 300 but got 200
+PASS
+Status code is 200
